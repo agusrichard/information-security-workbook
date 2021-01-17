@@ -1,3 +1,3 @@
-# React Livecoding
+# Information Security Workbook
 
-Learning React 
+Learning notes for Information Security and Ethical Hacking
